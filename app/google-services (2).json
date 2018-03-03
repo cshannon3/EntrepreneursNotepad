@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "360698770731",
+    "firebase_url": "https://entrepreneursnotepad.firebaseio.com",
+    "project_id": "entrepreneursnotepad",
+    "storage_bucket": "entrepreneursnotepad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360698770731:android:0a9c3697c5c1d590",
+        "android_client_info": {
+          "package_name": "com.ratingrocker.entrepreneursnotepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360698770731-o5kvpq869tbvsbm1vu0624k5unigbclv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIuY_YTfEjdxqa17eAqO6ihHSWYcIqcsI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
